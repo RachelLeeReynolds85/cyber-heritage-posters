@@ -34,6 +34,8 @@ This poster series provides a timeline, brief highlight, and inspirational quote
 * Tracy Chou
 
 <br>
+<br>
+<br>
 
 -----
 
@@ -60,6 +62,8 @@ This poster series provides a timeline of notable moments in each of 15 role mod
 * Ileana Rivera (Puerto Rican)
 * Lynn Conway (Transgender American)
 
+<br>
+<br>
 <br>
 
 -----
