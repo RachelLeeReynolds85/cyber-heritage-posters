@@ -44,7 +44,7 @@ This poster series provides a timeline, brief highlight, and inspirational quote
 ## Diverse Cyber Role Models series
 <img src=readme-images/diverse-cyber-role-models-sample.png width=400 align=right></img>
 
-This poster series provides a timeline of notable moments in each of 15 role models' personal and career histories.  Each moment links to a question or thought for an Airman to ponder.  Posters conclude with a thoughtful question or challenge for Airmen to reflect on.
+This poster series provides a timeline of notable moments in each of 15 role models' personal and career histories.  Each role model's moments are linked to milestones in an Airman's professional development.  Posters conclude with a thoughtful question or challenge for Airmen to reflect on.
 
 
 ### Role models in the series include:
