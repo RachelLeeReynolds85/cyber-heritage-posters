@@ -12,7 +12,7 @@ In this repo, there are print-ready and editable verisons of the actual posters 
 -----
 
 ## Women in Technology series
-<img src=readme-images/women-in-technology-sample.png width=300 style='float: right'></img>
+<img src=readme-images/women-in-technology-sample.png width=400 align=right></img>
 
 This poster series provides a timeline, brief highlight, and inspirational quote from each of 15 women who were pioneers in the tech industry.  They led at a time when women were even less represeted than they are today.  Posters conclude with an inspirational question or statement for Airmen to reflect on.
 
@@ -32,14 +32,13 @@ This poster series provides a timeline, brief highlight, and inspirational quote
 * Sophie Wilson
 * Stephanie Harwell
 * Tracy Chou
+
 <br>
-<br>
-<br>
-<br>
+
 -----
 
 ## Diverse Cyber Role Models series
-<img src=readme-images/diverse-cyber-role-models-sample.png width=300 style='float: right;'></img>
+<img src=readme-images/diverse-cyber-role-models-sample.png width=400 align=right></img>
 
 This poster series provides a timeline of notable moments in each of 15 role models' personal and career histories.  Each moment links to a question or thought for an Airman to ponder.  Posters conclude with an inspirational question or statement for Airmen to reflect on.
 
@@ -60,14 +59,13 @@ This poster series provides a timeline of notable moments in each of 15 role mod
 * Philip Emeagwali (Nigerian American)
 * Ileana Rivera (Puerto Rican)
 * Lynn Conway (Transgender American)
+
 <br>
-<br>
-<br>
-<br>
+
 -----
 
 ## Enlisted Communicators in History series
-<img src=readme-images/enlisted-communicators-in-history-sample.png width=300 style='float: right;'></img>
+<img src=readme-images/enlisted-communicators-in-history-sample.png width=400 align=right></img>
 
 This poster series provides a short career highlight of each of nine enlisted leaders in cyber and communications.  Posters conclude with an inspirational question or statement for Airmen to reflect on.
 
