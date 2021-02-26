@@ -12,7 +12,7 @@ In this repo, there are print-ready and editable verisons of the actual posters 
 -----
 
 ## Women in Technology series
-<img src="readme-images\women-in-technology-sample.png" width="300px" style='float: right;'>
+<img src=readme-images/women-in-technology-sample.png width=300></img>
 
 This poster series provides a timeline, brief highlight, and inspirational quote from each of 15 women who were pioneers in the tech industry.  They led at a time when women were even less represeted than they are today.  Posters conclude with an inspirational question or statement for Airmen to reflect on.
 
