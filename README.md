@@ -1,6 +1,6 @@
 # Cyber Heritage Posters
 
-Created by Rachel L. Reynolds (2018)
+<i>Created by Rachel L. Reynolds (2018)</i>
 
 ## Background
 <img src="readme-images/336 TRS patch.png" width=175 align=right></img>
