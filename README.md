@@ -3,6 +3,8 @@
 Created by Rachel L. Reynolds (2018)
 
 ## Background
+<img src="readme-images/336 TRS patch.png" width=175 align=right></img>
+
 As the Director of Operations for the US Air Force's enlisted cyber support training squadron, I undertook a pet project to exhibit role models airmen typically don't encounter in their classrooms.  Months of research, graphic design, budgeting, and advocacy ultimately triumphed.  In the schoolhouse where 5,200 troops a year from all walks of life come to study, the hallways have been transformed.  Today, there are over 30 inspirational displays dedicated to 9 unsung enlisted trailblazers; gay, transgender, and disabled technology leaders; 15 women pioneers; and cyber exemplars of 12 ethnicities (Armenian, Barbadian, Filipino, Jordanian, Mexican, and Nigerian Americans to name a few).  
 
 ## What's Here and How to Use It
