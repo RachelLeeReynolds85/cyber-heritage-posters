@@ -25,7 +25,7 @@ This poster series provides a timeline, brief highlight, and inspirational quote
 * Kathleen Antonelli
 * Marcellite J. Harris
 * Marissa Mayer
-* Nina Rees
+* Mina Rees
 * Nancy Leveson
 * Nancy White
 * Radia Perlman
